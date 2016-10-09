@@ -1,3 +1,4 @@
+[![Stories in Ready](https://badge.waffle.io/kaptoxic/SciFe.png?label=ready&title=Ready)](https://waffle.io/kaptoxic/SciFe)
 SciFe
 =====
 
